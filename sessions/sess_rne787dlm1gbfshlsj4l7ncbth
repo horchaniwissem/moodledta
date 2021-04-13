@@ -1,0 +1,1 @@
+USER|O:8:"stdClass":2:{s:2:"id";i:0;s:10:"mnethostid";s:1:"1";}SESSION|O:8:"stdClass":3:{s:4:"lang";s:2:"fr";s:8:"wantsurl";s:50:"https://lms.estya.com/calendar/view.php?view=month";s:13:"loginerrormsg";s:61:"Votre session est échue. Veuillez vous connecter à nouveau.";}
